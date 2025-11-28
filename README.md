@@ -54,3 +54,5 @@ Products are stored in `products.js` as a JavaScript array and dynamically rende
 - Persistent cart using browser storage
 - Clean checkout workflow
 
+Made By:
+AbdulSubhan (25F-0538)
