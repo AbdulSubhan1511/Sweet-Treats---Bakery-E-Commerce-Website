@@ -3,7 +3,7 @@
 A responsive, modern bakery e-commerce website built with vanilla HTML5, CSS3, and JavaScript. Browse fresh, organic baked goods and manage your shopping cart seamlessly.
 
 ## Live Demo
-https://abdulsubhan1511.github.io/Sweet-Treats---Bakery-E-Commerce-Website/cart.html
+https://abdulsubhan1511.github.io/Sweet-Treats---Bakery-E-Commerce-Website.html
 
 ## Key Features
 
